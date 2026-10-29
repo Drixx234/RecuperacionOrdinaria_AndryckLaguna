@@ -7,7 +7,7 @@ const Stack = createNativeStackNavigator();
 export default function StackNavigator() {
   return (
     <Stack.Navigator
-      initialRouteName="Screen1"
+      initialRouteName="Screen2"
       screenOptions={{
         headerStyle: { backgroundColor: '#1a1a2e' },
         headerTintColor: '#fff',
